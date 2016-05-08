@@ -9,4 +9,4 @@ Atom syntax theme, inspired by Airbnb, Facebook and Twitter.
  ***
  
 
-![Example](http://s32.postimg.org/wd2hdysxx/Skjermbilde_2016_05_08_kl_20_42_49.png)
+![Example](http://s32.postimg.org/ktxmjqakl/Skjermbilde_2016_05_08_kl_21_11_24.png)
