@@ -12,7 +12,7 @@
     "flow",
     "atom"
   ],
-  "repository": "https://github.com/atom/flow-syntax",
+  "repository": "https://github.com/ev1stensberg/atom-flow",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
