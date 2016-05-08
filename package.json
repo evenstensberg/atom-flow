@@ -1,0 +1,20 @@
+{
+  "name": "flow-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A syntax theme for Atom, inspired by Airbnb, Facebook and Twitter. ",
+  "keywords": [
+    "syntax",
+    "theme",
+    "facebook",
+    "twitter",
+    "airbnb",
+    "flow",
+    "atom"
+  ],
+  "repository": "https://github.com/atom/flow-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
