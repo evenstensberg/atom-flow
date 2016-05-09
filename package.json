@@ -1,7 +1,7 @@
 {
   "name": "flow-syntax",
   "theme": "syntax",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "A syntax theme for Atom, inspired by Airbnb, Facebook and Twitter. ",
   "keywords": [
     "syntax",
