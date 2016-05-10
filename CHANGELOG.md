@@ -1,4 +1,4 @@
-## 3.4 - Lastest Release 
+## 3.2.0 - Lastest Release 
 * Updated white color to be more a grey hue
 * Updated from green constant colors to orange
 
